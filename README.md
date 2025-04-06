@@ -7,7 +7,7 @@
 2. Setting up python playground - create virtual env to keep things organized and sandboxed
 
   ```py
-    python -m venv scraping-env
+    python3 -m venv scraping-env
 
     source scraping-env/bin/activate  # different on windows
   ```
